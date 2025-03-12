@@ -27,7 +27,7 @@ g++ pattern_gen.cpp -o pattern_gen
 
 ### Run the Program
 ```bash
-./pattern_generator
+./pattern_gen
 ```
 
 ## Usage
