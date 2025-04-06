@@ -1,5 +1,5 @@
 #include <iostream>
-#include <map> 
+#include <map>
 #include <vector>
 #include <string>
 #include <fstream> // Include for file handling
